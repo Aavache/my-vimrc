@@ -1,7 +1,7 @@
 # My `.vimrc`
-This repository is for myself but figured someone may be interested in having yet another customized `.vimrc`. 
+In this repository resides my personal `.vimrc` but I figured someone may be interested in having yet another customized `.vimrc`. 
 
-`.vimrc` is a file that can customize key-binding and add extentions to improve your experience in vim.
+`.vimrc` is a file that can customize key-binding and add extentions to improve your experience with vim.
 
 ## Install
 
